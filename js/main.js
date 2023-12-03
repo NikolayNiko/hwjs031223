@@ -83,7 +83,7 @@ model.onchange = function() {
     }
 
     return;
-}
+};
 
 // send.onclick = function() {
 //     e.preventDefault();
